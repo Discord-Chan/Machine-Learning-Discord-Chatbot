@@ -1,3 +1,3 @@
-# Machine-Learning-Discord-Chabot
+# Machine-Learning-Discord-Chatbot
 I am currently working on a chat bot which learns over time and spends time with you!
 further information will be added soon...
